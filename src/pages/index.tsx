@@ -1,4 +1,6 @@
 import { Header } from 'components/Header'
+import { Main } from 'components/Main'
+
 import styles from 'styles/home.module.scss'
 
 export default function Home() {
@@ -6,7 +8,7 @@ export default function Home() {
     <div className={styles.container}>
       <div className={styles.content}>
         <Header />
-        <h1>olar</h1>
+        <Main />
       </div>
     </div>
   )
