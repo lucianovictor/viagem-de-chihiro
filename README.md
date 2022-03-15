@@ -16,7 +16,7 @@ Dependências usadas no projeto:
 -  [TypeScript](https://www.typescriptlang.org/)
 -  [React Icons](https://react-icons.netlify.com/)
 
-Também foi adicionado as ferramentas [**ESLint**](https://eslint.org/) e [**Prettier**](https://prettier.io/) para aumentar a produtividade e auxiliar a manter um padrão de código.
+Também foram adicionados as ferramentas [**ESLint**](https://eslint.org/) e [**Prettier**](https://prettier.io/) para aumentar a produtividade e auxiliar a manter um padrão de código.
 
 ## 📥 Instalação e execução
 
